@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**Dev-Ameen01/Dev-Ameen01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ameen - Full Stack Developer
 
-Here are some ideas to get you started:
+Hello! I'm a full-stack developer driven by a passion for building seamless and high-performing web and mobile applications. With a strong command of both front-end and back-end technologies, I specialize in transforming ideas into polished, user-focused experiences. From dynamic web applications to efficient mobile solutions, I approach every project with the goal of delivering exceptional results. Let's collaborate and bring your vision to life!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open to exciting collaborations 🤝💡 
+
+## 🛠️ Languages and Tools
+- **Ruby on Rails** 🚂
+- **Python** 🐍
+- **React** ⚛️
+- **Node.js**
+- **JavaScript**
+- **TypeScript**
+- **AI & Machine Learning**
